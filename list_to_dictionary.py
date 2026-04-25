@@ -1,3 +1,4 @@
+# A simple Python script to generate a dictionary from a list
 colour_list = ["Yellow", "Blue", "Red", "Black", "Orange", "White"]
 
 colour_dictionary = dict()
